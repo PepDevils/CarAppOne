@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/326d66a69a0795526ed1bbc9c0fed786f829388f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/326d66a69a0795526ed1bbc9c0fed786f829388f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.traex.rippleeffect/library/1.3/6c12c03c0bc2b4ef579622dd78632fd19a432884/library-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
